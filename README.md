@@ -155,10 +155,3 @@ pip install numpy matplotlib astropy opencv-python tqdm
 * Boundary weighting function wf can be modified (e.g., cosine tapering) to reduce edge effects.
 
 ---
-
-## Author
-
-Zara
-Solar Magnetic Field Extrapolation Research
-
----

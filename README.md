@@ -18,23 +18,6 @@ This tool is designed for solar magnetic field research and educational purposes
 
 ---
 
-## Project Structure
-
-project/
-
-├── getmag_and_plot.py
-├── hmi_data/                # Input data directory
-│   ├── *.Bp.fits
-│   ├── *.Bt.fits
-│   └── *.Br.fits
-│
-├── output/                  # Output directory (auto-created)
-│   ├── *linearfff.fits
-│   ├── *nonlinearfff_guass.fits
-│
-└── README.md
-
----
 
 ## Input Data
 
@@ -143,7 +126,8 @@ if_plot = True
 
 Below is an example of 3D magnetic field lines colored by |J|/|B|:
 
-![Example Field Lines](docs/example_plot.png)
+<img width="713" height="713" alt="Figure 2026-03-02 141607" src="https://github.com/user-attachments/assets/ded1a5a6-ab98-4181-9e3a-af9afd832693" />
+
 
 Replace this image with your own visualization output.
 

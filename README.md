@@ -1,4 +1,4 @@
-# Perfect NLFFF Demo
+# NLFFF Demo
 
 This folder is a clean demo pipeline for an HMI SHARP CEA active region:
 
